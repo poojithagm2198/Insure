@@ -7,3 +7,5 @@ age, BMI (Body Mass Index), children, gender, and location. In other words, a st
 performed using these parameters to predict the insurance cost incurred. The goal is not limited to
 predicting these charges but goes as far as to compute the reliability of the model and tries to
 strengthen it by taking significant data into account
+
+# Please make sure to download the Excel file to view data.
